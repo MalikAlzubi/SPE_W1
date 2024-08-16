@@ -1,12 +1,12 @@
-# Ignoriere alles im Verzeichnis SPE_W1
-SPE_W1/*
+# Ignoriere alle Dateien und Verzeichnisse in prozeduraleProgrammierung_1/
+prozeduraleProgrammierung_1/*
 
-# Ausnahme für main.c, diese Datei soll nicht ignoriert werden
-!SPE_W1/main.c
+# Ausnahme für main.c
+!prozeduraleProgrammierung_1/main.c
 
-# Ignoriere das Verzeichnis .vs und alle darin enthaltenen Dateien
+# Ignoriere alle Dateien und Verzeichnisse im .vs-Verzeichnis
 .vs/
 
-# Ignoriere alle Debug-Dateien und Verzeichnisse
+# Ignoriere alle Debug-Dateien und -Verzeichnisse
 x64/
-SPE_W1/x64/
+prozeduraleProgrammierung_1/x64/
