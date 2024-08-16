@@ -6,6 +6,7 @@ prozeduraleProgrammierung_1/*
 
 # Ignoriere das Verzeichnis .vs und alle darin enthaltenen Dateien
 .vs/
+ung_1.log
 
 # Ignoriere alle Debug-Dateien und Verzeichnisse
 x64/
