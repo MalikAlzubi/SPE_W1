@@ -1,0 +1,12 @@
+# Ignoriere alles im Verzeichnis prozeduraleProgrammierung_1
+prozeduraleProgrammierung_1/*
+
+# Ausnahme für main.c, diese Datei soll nicht ignoriert werden
+!prozeduraleProgrammierung_1/main.c
+
+# Ignoriere das Verzeichnis .vs und alle darin enthaltenen Dateien
+.vs/
+
+# Ignoriere alle Debug-Dateien und Verzeichnisse
+x64/
+prozeduraleProgrammierung_1/x64/
